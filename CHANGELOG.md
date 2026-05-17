@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.13.1](https://github.com/Gitlawb/openclaude/compare/v0.13.0...v0.13.1) (2026-05-17)
+
+
+### Bug Fixes
+
+* **query:** stop repeated tool-failure loops ([#1219](https://github.com/Gitlawb/openclaude/issues/1219)) ([f71e769](https://github.com/Gitlawb/openclaude/commit/f71e7692373a61d28c82fc3fadff3feaa4071ede))
+* **TaskListV2:** revert overflowX hidden that hides task text labels ([#1215](https://github.com/Gitlawb/openclaude/issues/1215)) ([0fba154](https://github.com/Gitlawb/openclaude/commit/0fba1541a8647a805339811f6f2bac4b8d13b699))
+
 ## [0.13.0](https://github.com/Gitlawb/openclaude/compare/v0.12.1...v0.13.0) (2026-05-17)
 
 
